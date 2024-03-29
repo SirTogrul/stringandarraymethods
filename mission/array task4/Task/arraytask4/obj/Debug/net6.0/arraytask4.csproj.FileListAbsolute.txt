@@ -1,0 +1,15 @@
+C:\Users\Asus\Desktop\code tasks\array task4\Task\arraytask4\bin\Debug\net6.0\arraytask4.exe
+C:\Users\Asus\Desktop\code tasks\array task4\Task\arraytask4\bin\Debug\net6.0\arraytask4.deps.json
+C:\Users\Asus\Desktop\code tasks\array task4\Task\arraytask4\bin\Debug\net6.0\arraytask4.runtimeconfig.json
+C:\Users\Asus\Desktop\code tasks\array task4\Task\arraytask4\bin\Debug\net6.0\arraytask4.dll
+C:\Users\Asus\Desktop\code tasks\array task4\Task\arraytask4\bin\Debug\net6.0\arraytask4.pdb
+C:\Users\Asus\Desktop\code tasks\array task4\Task\arraytask4\obj\Debug\net6.0\arraytask4.csproj.AssemblyReference.cache
+C:\Users\Asus\Desktop\code tasks\array task4\Task\arraytask4\obj\Debug\net6.0\arraytask4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\Desktop\code tasks\array task4\Task\arraytask4\obj\Debug\net6.0\arraytask4.AssemblyInfoInputs.cache
+C:\Users\Asus\Desktop\code tasks\array task4\Task\arraytask4\obj\Debug\net6.0\arraytask4.AssemblyInfo.cs
+C:\Users\Asus\Desktop\code tasks\array task4\Task\arraytask4\obj\Debug\net6.0\arraytask4.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\code tasks\array task4\Task\arraytask4\obj\Debug\net6.0\arraytask4.dll
+C:\Users\Asus\Desktop\code tasks\array task4\Task\arraytask4\obj\Debug\net6.0\refint\arraytask4.dll
+C:\Users\Asus\Desktop\code tasks\array task4\Task\arraytask4\obj\Debug\net6.0\arraytask4.pdb
+C:\Users\Asus\Desktop\code tasks\array task4\Task\arraytask4\obj\Debug\net6.0\arraytask4.genruntimeconfig.cache
+C:\Users\Asus\Desktop\code tasks\array task4\Task\arraytask4\obj\Debug\net6.0\ref\arraytask4.dll
